@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\data\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\data\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\models\\leavereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\models\\leavereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\data\\connnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\data\\connnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\data\\leavedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\data\\leavedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\views\\leavereq\\getallrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\views\\leavereq\\getallrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\views\\leavereq\\addleavereq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\views\\leavereq\\addleavereq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\controllers\\leavereqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\leavereqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|f:\\fullstack c#\\.net demos\\leavemanagement\\leavemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF0624B-A0A1-4782-BC70-46EEAA1E206E}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Models\\Employees.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Models\\Employees.cs",
+              "RelativeToolTip": "LeaveManagement\\Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:57:51.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllRequests.cshtml",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\LeaveReq\\GetAllRequests.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement\\Views\\LeaveReq\\GetAllRequests.cshtml",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\LeaveReq\\GetAllRequests.cshtml",
+              "RelativeToolTip": "LeaveManagement\\Views\\LeaveReq\\GetAllRequests.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T22:41:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddLeaveReq.cshtml",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\LeaveReq\\AddLeaveReq.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement\\Views\\LeaveReq\\AddLeaveReq.cshtml",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\LeaveReq\\AddLeaveReq.cshtml",
+              "RelativeToolTip": "LeaveManagement\\Views\\LeaveReq\\AddLeaveReq.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T22:38:37.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveDataAccessLayer.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\LeaveDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Data\\LeaveDataAccessLayer.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\LeaveDataAccessLayer.cs",
+              "RelativeToolTip": "LeaveManagement\\Data\\LeaveDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:05:48.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDataAccessLayer.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\EmployeeDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Data\\EmployeeDataAccessLayer.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\EmployeeDataAccessLayer.cs",
+              "RelativeToolTip": "LeaveManagement\\Data\\EmployeeDataAccessLayer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:19:50.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveReqController.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Controllers\\LeaveReqController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\LeaveReqController.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Controllers\\LeaveReqController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\LeaveReqController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:43:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:57:39.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveReq.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Models\\LeaveReq.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Models\\LeaveReq.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Models\\LeaveReq.cs",
+              "RelativeToolTip": "LeaveManagement\\Models\\LeaveReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:28:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeaveManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T13:27:13.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnnectionString.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\ConnnectionString.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Data\\ConnnectionString.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\LeaveManagement\\LeaveManagement\\Data\\ConnnectionString.cs",
+              "RelativeToolTip": "LeaveManagement\\Data\\ConnnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:49:44.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

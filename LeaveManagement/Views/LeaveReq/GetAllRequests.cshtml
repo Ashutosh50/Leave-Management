@@ -1,0 +1,76 @@
+﻿@model IEnumerable<LeaveManagement.Models.LeaveReq>
+
+@{
+    ViewData["Title"] = "GetAllRequests";
+}
+
+<h1>GetAllRequests</h1>
+
+<p>
+    <a asp-action="AddLeaveReq">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LeaveId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reason)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staus)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeaveId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reason)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Staus)
+            </td>
+            <td>
+                @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }) *@
+                    <form asp-action="UpdateStatus" method="post" >
+                        <input type="hidden" name="id" value="@item.LeaveId"/>
+                        <input type="hidden" name="status" value="Accepted" />
+                        <button type="submit" btn btn-success>Accepted</button>
+                    </form>
+
+                    <form asp-action="UpdateStatus" method="post">
+                        <input type="hidden" name="id" value="@item.LeaveId" />
+                        <input type="hidden" name="status" value="Rejected" />
+                        <button type="submit" btn btn-danger>Rejected</button>
+                    </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
